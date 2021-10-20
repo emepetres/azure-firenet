@@ -1,0 +1,8 @@
+project_id: "[YOUR CUSTOM VISION PROJECT ID]"
+custom_vision:
+  endpoint: "[YOUR CUSTOM VISION RESOURCE ENDPOINT]"
+  training_key: "***"
+  prediction_key: "***"
+  prediction_resource_id: "[YOUR CUSTOM VISION RESOURCE ID]"
+firenet_path: "[PATH]/FireNet"
+upload_batch_size: 50
